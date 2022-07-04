@@ -1,4 +1,5 @@
 # 2021Z-Numerical-methods
+Projekty tworzone w ramach przedmiotu Metody numeryczne
 
 ---
 

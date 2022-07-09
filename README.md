@@ -1,13 +1,12 @@
 # 2021Z-Numerical-methods
-Projekty tworzone w ramach przedmiotu Metody numeryczne
+Projects created in the course Numerical Methods 
 
 ---
 
-## Projekt 1
-Wyznaczanie zer wielomianu (i wizualizacja szybkości zbieżności metody) $$w(z) = \sum_{k=0}^{n} a_{k}z^{k}$$ w dziedzinie zespolonej metodą Jarrata. 
-Do obliczania wartości wielomianu i jego pochodnej zastosowany algorytm Hornera. 
+## Project 1
+Finding roots of polynomials of the form $$w(z) = \sum_{k=0}^{n} a_{k}z^{k}$$ in the complex domain using Jarrat method. Visualization of convergence of each starting point using color according to the number of iterations needed to converge. Horner's algorithm used to calculate the value of the polynomial and its derivative. 
 
 ---
 
-## Projekt 2
-Rozwiązywanie równania macierzowego $AX = B$ w dziedzinie zespolonej metodą Cholesky'ego-Banachiewicza   (rozkład $LDL^{H}$), gdzie macierz $A$ jest hermitowska, dodatnio określona i jest macierzą trójdiagonalną.
+## Project 2
+Solving the matrix equation $AX = B$ in the complex domain using the Cholesky-Banachiewicz method ($LDL^{H}$ decomposition), where $A$ is Hermitian, positively defined, tridiagonal matrix.

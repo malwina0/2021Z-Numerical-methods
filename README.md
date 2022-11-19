@@ -9,4 +9,4 @@ Finding roots of polynomials of the form $$w(z) = \sum_{k=0}^{n} a_{k}z^{k}$$ in
 ---
 
 ## Project 2
-Solving the matrix equation $AX = B$ in the complex domain using the Cholesky-Banachiewicz method ($LDL^{H}$ decomposition), where $A$ is Hermitian, positively defined, tridiagonal matrix.
+Solving the matrix equation $AX = B$ in the complex domain using the Cholesky-Banachiewicz method ( $LDL^{H}$ decomposition), where $A$ is Hermitian, positively defined, tridiagonal matrix.
